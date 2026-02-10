@@ -1,0 +1,4 @@
+
+    Los alumnos que van a reprobar son
+    todos los que no tienen asistencia
+    hoy. Y asi
